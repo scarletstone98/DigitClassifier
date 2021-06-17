@@ -4,5 +4,4 @@ This project is conducted for 'Thermal Physics II' lecture.
 Additionally, this project is not a novel(new) one. I took whole of the references(see #references).
 
 # References
-https://youtu.be/vL0J0Fyfa4k \n
-https://github.com/tuxxon/DigitClassifier
+Youtube: https://youtu.be/vL0J0Fyfa4k, Github: https://github.com/tuxxon/DigitClassifier
